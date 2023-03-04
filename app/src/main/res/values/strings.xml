@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CeaserCipher</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="caesar_cipher">Caesar Cipher </string>
+    <string name="view">View</string>
+    <string name="enter">Enter</string>
+    <string name="key">Key</string>
+    <string name="Decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="Encrypt">Encrypt</string>
+    <string name="output">Output</string>
+    <string name="by_abdallah">By Abdallah Ebied -_- </string>
+</resources>
